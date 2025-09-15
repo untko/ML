@@ -1,1 +1,1 @@
-# stuff on reinforcement learning
+stuff about reinforcement learning
